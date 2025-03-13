@@ -6,7 +6,6 @@ With over 10 years of commercial software development experience, I specialize i
 
 ## What I use
 
-
 <img align="left" alt="Java" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -38,9 +37,6 @@ With over 10 years of commercial software development experience, I specialize i
 <img align="left" alt="Node" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-&nbsp;
-
-<br />
 <br />
 
 ---
@@ -48,6 +44,5 @@ With over 10 years of commercial software development experience, I specialize i
 ## Socials
 
 [Website](https://chesterjavier03.vercel.app/), [Linkedin](https://www.linkedin.com/in/chesterjavier03)
-
 
 ---

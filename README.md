@@ -38,6 +38,9 @@ With over 10 years of commercial software development experience, I specialize i
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 &nbsp;
+&nbsp;
+
+<br />
 
 ---
 

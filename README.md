@@ -1,4 +1,4 @@
-# Hello, I'm Chester Javier
+# Hello, I'm Chester Javier 👋
 
 With over 10 years of commercial software development experience, I specialize in delivering scalable and high-performance solutions for startups. My expertise spans across the full stack, from backend technologies like Java, Spring Boot, and Microservices, to frontend frameworks such as React and Next.js. I’m also experienced in mobile development using React Native and Expo. My strong foundation in CQRS, MongoDB, PostgreSQL, and MySQL enables me to build resilient and robust systems. Having worked with diverse teams, I thrive in Agile and Scrum environments, contributing to both technical leadership and hands-on development. I am passionate about creating seamless user experiences and implementing solutions that meet business goals. I value collaboration and enjoy being part of a productive team that drives innovation.
 

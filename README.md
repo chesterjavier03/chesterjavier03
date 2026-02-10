@@ -1,6 +1,6 @@
 # Hello, I'm Chester Javier 👋
 
-I believe technology should serve people, not the other way around. With over a decade of experience, I help startups and corporations turn ambitious goals into reality by building high-performance software that users love. My full-stack expertise—from backend microservices (Java, Spring Boot) to frontend experiences (React, Next.js) and mobile apps (React Native)—ensures resilient systems that scale seamlessly. I thrive in Agile environments where collaboration fuels innovation, partnering with teams to meet tight deadlines without compromising quality. I focus on one thing: delivering solutions that drive your business forward. Let’s build something meaningful together.
+I Help Businesses Automate Operations & Scale Revenue with Custom Software | Digital Transformation Partner | Legacy → Microservices | Spring Boot • React/Next.js • React Native
 
 ---
 
